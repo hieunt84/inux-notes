@@ -19,3 +19,5 @@
       
 - [9. How to use curl command](https://linuxize.com/post/curl-command-examples/)
   + ex download file: `curl -s https://example.com/soucre.taz.gz`
+- [10. How to user wget command](https://linuxize.com/post/wget-command-examples/)
+  + ex download file: `wget -q -O - "http://wordpress.org/latest.tar.gz" | tar -xzf - -C /var/www`
