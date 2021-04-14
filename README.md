@@ -8,3 +8,5 @@
   - `mkpasswd`
 ##### 6. How to Enable the EPEL repository on CentOS: https://linuxize.com/post/how-to-enable-epel-repository-on-centos/
 ##### 7. How to Find Files and Directories: https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/
+##### 8. Website hocvps: https://hocvps.com/
+###### 8.1. Hướng dẫn căn bản cài đặt VPS: https://hocvps.com/bat-dau/
