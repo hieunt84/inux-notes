@@ -7,3 +7,4 @@
 ##### 5. How to make password random: https://quantrimang.com/10-cach-tao-mat-khau-ngau-nhien-trong-linux-tu-dong-lenh-83450
   - `mkpasswd`
 ##### 6. How to Enable the EPEL repository on CentOS: https://linuxize.com/post/how-to-enable-epel-repository-on-centos/
+##### 7. How to Find Files and Directories: https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/
