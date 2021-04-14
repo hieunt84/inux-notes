@@ -17,3 +17,4 @@
   + Backup VPS với Duplicity: https://hocvps.com/backup-vps-voi-duplicity/
   + ...
       
+- [9. How to use curl command](https://linuxize.com/post/curl-command-examples/)
