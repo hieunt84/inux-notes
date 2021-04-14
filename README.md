@@ -18,3 +18,4 @@
   + ...
       
 - [9. How to use curl command](https://linuxize.com/post/curl-command-examples/)
+  + ex: curl -s https://example.com/soucre.taz.gz
