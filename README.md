@@ -10,4 +10,8 @@
 ##### 7. How to Find Files and Directories: https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/
 ##### 8. Website hocvps: https://hocvps.com/
       8.1. Hướng dẫn căn bản cài đặt VPS: https://hocvps.com/bat-dau/
+      8.2. Rclone – Backup toàn bộ VPS lên Google Drive: https://hocvps.com/rclone/
+      8.3. [HocVPS Script Plugin] – Tự động sao lưu toàn bộ VPS: https://hocvps.com/hocvps-script-plugin-backup-vps/
+      8.4. Backup VPS với Duplicity: https://hocvps.com/backup-vps-voi-duplicity/
+      8.5. ...
       
