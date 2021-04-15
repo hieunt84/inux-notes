@@ -22,5 +22,5 @@
   + ex check info website: `curl -I --http2 https://www.ubuntu.com/`
 - [10. How to use wget command](https://linuxize.com/post/wget-command-examples/)
   + ex download file: `wget -q -O - "http://wordpress.org/latest.tar.gz" | tar -xzf - -C /var/www`
-- [11.] How to set ip on centos 8: https://linuxconfig.org/rhel-8-configure-static-ip-address
-- [12.] How to set ip on centos 7: https://cuongquach.com/cau-hinh-ip-tinh-tren-centos-7.html
+- [11. How to set ip on centos 8](https://linuxconfig.org/rhel-8-configure-static-ip-address)
+- [12. How to set ip on centos 7](https://cuongquach.com/cau-hinh-ip-tinh-tren-centos-7.html)
