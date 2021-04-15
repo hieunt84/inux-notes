@@ -31,4 +31,4 @@
 - [17. Hướng dẫn khôi phục mật khẩu root trên CentOS 7/RHEL 7](https://cuongquach.com/khoi-phuc-mat-khau-root-tren-centos7-rhel7.html)
 - [18. Làm sao để comment nhiều dòng code liên tục trong Shell Script](https://cuongquach.com/comment-nhieu-dong-code-lien-tuc-shell-script.html)
 - [19. How to Enable SSH on CentOS 8](https://linuxhint.com/enable_ssh_centos8/)
-- [20. Tìm và thay thế chuỗi ký tự trong một file sử dụng Sed Command trong Linux]https://vinasupport.com/tim-va-thay-the-ky-tu-trong-mot-file-su-dung-sed-linux-command-linux/
+- [20. Tìm và thay thế chuỗi ký tự trong một file use Sed Command](https://vinasupport.com/tim-va-thay-the-ky-tu-trong-mot-file-su-dung-sed-linux-command-linux/)
