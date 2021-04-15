@@ -24,3 +24,7 @@
   + ex download file: `wget -q -O - "http://wordpress.org/latest.tar.gz" | tar -xzf - -C /var/www`
 - [11. How to set ip on centos 8](https://linuxconfig.org/rhel-8-configure-static-ip-address)
 - [12. How to set ip on centos 7](https://cuongquach.com/cau-hinh-ip-tinh-tren-centos-7.html)
+- [13. Systemd vs Init Cheatsheet for Linux](https://linoxide.com/systemd-vs-sysvinit-cheatsheet/)
+- [14. Whati is Daemon in linux](https://cuongquach.com/daemon-trong-linux-la-gi.html)
+- [15. Ebook DevOps Troubleshooting Linux Server Best Practices](https://cuongquach.com/ebook-devops-troubleshooting-linux-server-best-practices.html)
+- [16. WHEN YOUR MIND MAKES LOVE WITH CLI](https://www.familug.org/2012/03/ccgu-cat-cut-grep-uniq.html)
