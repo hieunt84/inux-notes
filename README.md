@@ -33,3 +33,4 @@
 - [19. How to Enable SSH on CentOS 8](https://linuxhint.com/enable_ssh_centos8/)
 - [20. Tìm và thay thế chuỗi ký tự trong một file use Sed Command](https://vinasupport.com/tim-va-thay-the-ky-tu-trong-mot-file-su-dung-sed-linux-command-linux/)
 - [21. How To Configure BIND as a Private Network DNS Server on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-centos-7)
+- [22. How to Enable SSH on Ubuntu 20.04](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/)
